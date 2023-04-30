@@ -1,5 +1,7 @@
 # Retail Sales Data Analysis
 
+![](./Images/UKOnlineRetail.jpg)
+
 This project aims to analyze retail sales data and provide insights on the best-selling products, sales trends over time, and other useful information.
 
 In today's competitive business landscape, having insights into customer purchasing behavior is essential for success. The ability to identify the best-selling products, sales trends over time, and other useful information can give companies a strategic advantage. This project aims to provide just that, by analyzing retail sales data and delivering actionable insights.
@@ -128,5 +130,26 @@ The following technologies were used in this project:
 This project provides a simple but powerful way to analyze retail sales data and gain insights into the best-selling products and sales trends over time. With some additional work, this application could be expanded to provide more detailed analysis and visualization of the data.
 
 ---
+
+## Glossary
+![](./Images/CountryPerformance.jpg)
+
+![](./Images/customerSegmentation.jpg)
+
+![](./Images/decomposition.jpg)
+
+![](./Images/PopularProducts.jpg)
+
+![](./Images/productAnalysis.jpg)
+
+![](./Images/productsSoldTotalRevenueScatter.jpg)
+
+![](./Images/prophet.jpg)
+
+![](./Images/SalesTrend.jpg)
+
+![](./Images/timeSeries.jpg)
+
+![](./Images/totalRevenueCountry.jpg)
 
 ---
